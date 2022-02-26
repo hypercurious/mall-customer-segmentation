@@ -19,3 +19,5 @@
 <li>Spending Score</li>
 </ol>
 <p>You can find the dataset <a href="https://github.com/hypercurious/mall-customer-segmentation/blob/main/Dataset%203.csv">here</a>.</p>
+<h2>Results</h2>
+![3dmodel](https://user-images.githubusercontent.com/48538391/155844074-34d91ac6-10b7-460e-9356-4f5b9a81252f.gif)
