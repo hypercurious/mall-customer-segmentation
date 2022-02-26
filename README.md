@@ -20,4 +20,5 @@
 </ol>
 <p>You can find the dataset <a href="https://github.com/hypercurious/mall-customer-segmentation/blob/main/Dataset%203.csv">here</a>.</p>
 <h2>Results</h2>
-![3dmodel](https://user-images.githubusercontent.com/48538391/155844074-34d91ac6-10b7-460e-9356-4f5b9a81252f.gif)
+
+![3dmodel](https://user-images.githubusercontent.com/48538391/155844702-083a5452-04c8-4ce5-b865-b0ad1d89b57a.gif)
